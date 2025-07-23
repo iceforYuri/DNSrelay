@@ -1,0 +1,62 @@
+[
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\main.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\main.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/main.c",
+  "output": "CMakeFiles/dnsrelay.dir/main.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\DNSHandle\\DNSHandle.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\DNSHandle\\DNSHandle.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/DNSHandle/DNSHandle.c",
+  "output": "CMakeFiles/dnsrelay.dir/DNSHandle/DNSHandle.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\DNSHandle\\dns_message.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\DNSHandle\\dns_message.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/DNSHandle/dns_message.c",
+  "output": "CMakeFiles/dnsrelay.dir/DNSHandle/dns_message.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\DNSHandle\\IdConversion.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\DNSHandle\\IdConversion.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/DNSHandle/IdConversion.c",
+  "output": "CMakeFiles/dnsrelay.dir/DNSHandle/IdConversion.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\Initialization\\io.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\Initialization\\io.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/Initialization/io.c",
+  "output": "CMakeFiles/dnsrelay.dir/Initialization/io.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\Initialization\\multiThread.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\Initialization\\multiThread.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/Initialization/multiThread.c",
+  "output": "CMakeFiles/dnsrelay.dir/Initialization/multiThread.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\LookUp\\data_struct.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\LookUp\\data_struct.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/LookUp/data_struct.c",
+  "output": "CMakeFiles/dnsrelay.dir/LookUp/data_struct.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\Platform\\platformSocket.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\Platform\\platformSocket.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/Platform/platformSocket.c",
+  "output": "CMakeFiles/dnsrelay.dir/Platform/platformSocket.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\Platform\\platformThread.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\Platform\\platformThread.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/Platform/platformThread.c",
+  "output": "CMakeFiles/dnsrelay.dir/Platform/platformThread.c.obj"
+},
+{
+  "directory": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/dnsrelay.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\dnsrelay.dir\\Debug\\debug.c.obj -c F:\\Code\\20250528(network_design)\\0607\\dnsrelay_0607_1142\\Debug\\debug.c",
+  "file": "F:/Code/20250528(network_design)/0607/dnsrelay_0607_1142/Debug/debug.c",
+  "output": "CMakeFiles/dnsrelay.dir/Debug/debug.c.obj"
+}
+]
